@@ -1,0 +1,60 @@
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD\bin\Debug\SIMPLECRUD.exe.config
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD\bin\Debug\SIMPLECRUD.exe
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD\bin\Debug\SIMPLECRUD.pdb
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD\bin\Debug\AForge.dll
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD\bin\Debug\AForge.Video.dll
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD\bin\Debug\MySql.Data.dll
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD\bin\Debug\MySql.Web.dll
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD\bin\Debug\AForge.xml
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD\bin\Debug\AForge.Video.xml
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD\obj\Debug\SIMPLECRUD CS AND MYSQL.csprojResolveAssemblyReference.cache
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD\obj\Debug\SIMPLECRUD.ADDNEWEMPLOYEEFORM.resources
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD\obj\Debug\SIMPLECRUD.CAMERAFORM.resources
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD\obj\Debug\SIMPLECRUD.CHANGEPASSWORDFORM.resources
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD\obj\Debug\SIMPLECRUD.CREATEANOTHERACCOUNTFORM.resources
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD\obj\Debug\SIMPLECRUD.PROFILEFORM.resources
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD\obj\Debug\SIMPLECRUD.FORGOTPASSWORDFORM.resources
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD\obj\Debug\SIMPLECRUD.LOGINFORM.resources
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD\obj\Debug\SIMPLECRUD.MAINFORM.resources
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD\obj\Debug\SIMPLECRUD.Properties.Resources.resources
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD\obj\Debug\SIMPLECRUD.RECORDSFORM.resources
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD\obj\Debug\SIMPLECRUD CS AND MYSQL.csproj.GenerateResource.Cache
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD\obj\Debug\SIMPLECRUD.exe
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD\obj\Debug\SIMPLECRUD.pdb
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD\bin\Debug\SIMPLECRUD CS AND MYSQL.exe.config
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD CS AND MYSQL\obj\Debug\SIMPLECRUD CS AND MYSQL.csprojResolveAssemblyReference.cache
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD CS AND MYSQL\obj\Debug\SIMPLECRUD_CS_AND_MYSQL.ADDNEWEMPLOYEEFORM.resources
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD CS AND MYSQL\obj\Debug\SIMPLECRUD_CS_AND_MYSQL.CAMERAFORM.resources
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD CS AND MYSQL\obj\Debug\SIMPLECRUD_CS_AND_MYSQL.CHANGEPASSWORDFORM.resources
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD CS AND MYSQL\obj\Debug\SIMPLECRUD_CS_AND_MYSQL.CREATEANOTHERACCOUNTFORM.resources
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD CS AND MYSQL\obj\Debug\SIMPLECRUD_CS_AND_MYSQL.PROFILEFORM.resources
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD CS AND MYSQL\obj\Debug\SIMPLECRUD_CS_AND_MYSQL.FORGOTPASSWORDFORM.resources
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD CS AND MYSQL\obj\Debug\SIMPLECRUD_CS_AND_MYSQL.LOGINFORM.resources
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD CS AND MYSQL\obj\Debug\SIMPLECRUD_CS_AND_MYSQL.MAINFORM.resources
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD CS AND MYSQL\obj\Debug\SIMPLECRUD_CS_AND_MYSQL.Properties.Resources.resources
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD CS AND MYSQL\obj\Debug\SIMPLECRUD_CS_AND_MYSQL.RECORDSFORM.resources
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD CS AND MYSQL\obj\Debug\SIMPLECRUD CS AND MYSQL.csproj.GenerateResource.Cache
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD CS AND MYSQL\bin\Debug\SIMPLECRUD CS AND MYSQL.exe.config
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD CS AND MYSQL\bin\Debug\SIMPLECRUD CS AND MYSQL.exe
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD CS AND MYSQL\bin\Debug\SIMPLECRUD CS AND MYSQL.pdb
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD CS AND MYSQL\bin\Debug\AForge.dll
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD CS AND MYSQL\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD CS AND MYSQL\bin\Debug\AForge.Video.dll
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD CS AND MYSQL\bin\Debug\MySql.Data.dll
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD CS AND MYSQL\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD CS AND MYSQL\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD CS AND MYSQL\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD CS AND MYSQL\bin\Debug\MySql.Web.dll
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD CS AND MYSQL\bin\Debug\AForge.xml
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD CS AND MYSQL\bin\Debug\AForge.Video.xml
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD CS AND MYSQL\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD CS AND MYSQL\obj\Debug\SIMPLECRUD CS AND MYSQL.exe
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MYSQL\SIMPLECRUD CS AND MYSQL\obj\Debug\SIMPLECRUD CS AND MYSQL.pdb
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MS ACCESS\SIMPLECRUD CS AND MYSQL\bin\Debug\SIMPLECRUD CS AND MYSQL.exe.config
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MS ACCESS\SIMPLECRUD CS AND MYSQL\obj\Debug\SIMPLECRUD CS AND MYSQL.exe
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\SIMPLECRUD IN C# AND MS ACCESS\SIMPLECRUD CS AND MYSQL\obj\Debug\SIMPLECRUD CS AND MYSQL.pdb
