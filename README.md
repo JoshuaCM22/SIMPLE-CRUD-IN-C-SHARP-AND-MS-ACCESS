@@ -5,7 +5,7 @@
 * Target Framework: .Net Framework 4.6.1
 * IDE: MS Visual Studio 2012
 * Backend Database: MS Access 2013
-* Type of Application: Desktop Application (Windows Forms Application)
+* Type of Application: Desktop Application (Windows Forms)
   
 <h2> User Interface Screenshots </h2> 
   <img src="SCREENSHOTS/PIC1.jpg">
